@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @floriangota
 - 👀 I’m interested in many things!
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me floriansiqanii@gmail.com
 
 <!---
